@@ -1,0 +1,7 @@
+S,A,B,C,D,E,F,G
+//Comment
+c
+S=>AB|CD
+A=>EF
+G=>AD
+C=>c

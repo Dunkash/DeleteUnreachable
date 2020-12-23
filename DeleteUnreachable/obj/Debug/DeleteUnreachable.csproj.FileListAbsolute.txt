@@ -1,0 +1,7 @@
+C:\Users\Dunkash\source\repos\DeleteUnreachable\DeleteUnreachable\bin\Debug\DeleteUnreachable.exe.config
+C:\Users\Dunkash\source\repos\DeleteUnreachable\DeleteUnreachable\bin\Debug\DeleteUnreachable.exe
+C:\Users\Dunkash\source\repos\DeleteUnreachable\DeleteUnreachable\bin\Debug\DeleteUnreachable.pdb
+C:\Users\Dunkash\source\repos\DeleteUnreachable\DeleteUnreachable\obj\Debug\DeleteUnreachable.csprojAssemblyReference.cache
+C:\Users\Dunkash\source\repos\DeleteUnreachable\DeleteUnreachable\obj\Debug\DeleteUnreachable.csproj.CoreCompileInputs.cache
+C:\Users\Dunkash\source\repos\DeleteUnreachable\DeleteUnreachable\obj\Debug\DeleteUnreachable.exe
+C:\Users\Dunkash\source\repos\DeleteUnreachable\DeleteUnreachable\obj\Debug\DeleteUnreachable.pdb
